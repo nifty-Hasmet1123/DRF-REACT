@@ -1,0 +1,6 @@
+.venv
+.vscode
+.env
+db.sqlite3
+__pycache__
+super_user_credentials.txt

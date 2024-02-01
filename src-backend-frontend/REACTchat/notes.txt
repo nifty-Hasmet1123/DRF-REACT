@@ -1,0 +1,13 @@
+###
+after creating project in vite use the command: `npm install`
+to start-> `npm run dev`
+###
+
+### program language ###
+-TypeScript
+
+### libraries ###
+-React
+-Vite
+-MaterialUI (MUI)
+-React-Router
